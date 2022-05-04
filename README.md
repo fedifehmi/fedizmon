@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fedizmon
+- 👋 Hi, I’m @fedifehmi
 - 👀 I’m interested in IA coding and programming
-- 🌱 I’m currently learning BIG DATA and DATA SIENCE
+- 🌱 I’m currently learning BIG DATA and DATA SCIENCE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
